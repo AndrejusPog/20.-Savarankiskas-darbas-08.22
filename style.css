@@ -1,14 +1,20 @@
 section {
   margin: 0px;
 }
+.header{
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+}
 
 nav {
   display: flex;
   justify-content: space-between;
   background-color: rgb(212, 208, 208);
   padding: 20px;
-  padding-left: 100px;
-  padding-right: 100px;
+
+  margin: auto;
 }
 
 .imagelogo {
@@ -40,6 +46,7 @@ nav {
 
 article {
   width: 80%;
+  margin: auto;
 }
 .mainpage {
   margin: auto;
@@ -141,7 +148,7 @@ width: auto;
     gap: 10px;
   }
 
-  nav {
+  .header {
     justify-content: center;
   }
   .about {
