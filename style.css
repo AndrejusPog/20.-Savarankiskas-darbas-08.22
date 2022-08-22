@@ -111,8 +111,7 @@ article {
 
 /* mobile breakpoint */
 @media (max-width: 575.98px) {
-  body {
-  }
+
   .navlinks {
     display: none;
   }
