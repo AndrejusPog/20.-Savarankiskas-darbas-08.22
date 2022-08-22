@@ -150,4 +150,7 @@ width: auto;
   .flowers{
     width: 100%;
   }
+  .about{
+    text-align: center;
+  }
 }
